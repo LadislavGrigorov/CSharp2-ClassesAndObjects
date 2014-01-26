@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\bin\Debug\06.SumOfNumbersInString.exe.config
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\bin\Debug\06.SumOfNumbersInString.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\bin\Debug\06.SumOfNumbersInString.pdb
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\obj\Debug\06.SumOfNumbersInString.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\obj\Debug\06.SumOfNumbersInString.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\06.SumOfNumbersInString\obj\Debug\06.SumOfNumbersInString.pdb

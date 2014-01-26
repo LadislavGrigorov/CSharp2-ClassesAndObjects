@@ -1,0 +1,5 @@
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.exe.config
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.pdb
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.pdb

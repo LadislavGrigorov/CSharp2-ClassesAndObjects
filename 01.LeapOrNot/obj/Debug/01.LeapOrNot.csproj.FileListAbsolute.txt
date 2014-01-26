@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\bin\Debug\01.LeapOrNot.exe.config
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\bin\Debug\01.LeapOrNot.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\bin\Debug\01.LeapOrNot.pdb
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\obj\Debug\01.LeapOrNot.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\obj\Debug\01.LeapOrNot.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\01.LeapOrNot\obj\Debug\01.LeapOrNot.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\bin\Debug\05.WorkdaysCount.exe.config
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\bin\Debug\05.WorkdaysCount.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\bin\Debug\05.WorkdaysCount.pdb
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\obj\Debug\05.WorkdaysCount.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\obj\Debug\05.WorkdaysCount.exe
+D:\Telerik\C# Part 2\05.UsingClassesAndObjects\UsingClassesAndObjects Homework\UsingClassesAndObjects\05.WorkdaysCount\obj\Debug\05.WorkdaysCount.pdb
